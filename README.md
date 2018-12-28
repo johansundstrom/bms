@@ -1,7 +1,7 @@
 # BMS
 Mina noteringar om BMS
 * Kortslutningsström får ej förekomma Isc
-* Temperatur på batterier bör övervakas
+* Temperatur på batterier bör övervakas >0C <45C
 
 ## Batterier
 * Vanliga batterier är 18650 (18mm diameter, 65mm hög)
@@ -9,6 +9,8 @@ Mina noteringar om BMS
 * Lithiumbatterier bör ej understiga 2,5V eller överstiga 4,2V - SoC
 * Fulladdat batteri anses vara 90% då 100% över lång tid minskar dess livslängd
 * Laddning under 30% minskar också livslängden
+* max konstant strömuttag vs puls strömuttag
+* Flat top (CID) eller 
 
 
 ## Laddning med övervakning
